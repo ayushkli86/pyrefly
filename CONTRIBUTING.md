@@ -12,8 +12,6 @@ Thank you for your interest in contributing to PyRefly! We welcome contributions
 
 Please follow the coding style and conventions used throughout the project. For Python code, we follow [PEP 8](https://www.python.org/dev/peps/pep-0008/) and for Rust code, we follow the [Rust style guide](https://doc.rust-lang.org/1.0.0/style/).
 
-Additionally, please refer to the [HACKING.md](https://github.com/facebook/pyrefly/blob/main/HACKING.md) for more detailed code conventions and guidelines.
-
 ## Pull Request Process
 
 1. Ensure your code builds and passes all tests.
